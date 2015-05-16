@@ -7,7 +7,6 @@ cask install accessmenubarapps
 cask install alfred
 cask install appcleaner
 cask install bettertouchtool
-cask install boot2docker
 cask install chefdk
 cask install dropbox
 cask install evernote
@@ -27,10 +26,6 @@ cask install vagrant
 cask install virtualbox
 cask install xtrafinder
 
-## fnichol/dvm
-tap fnichol/dvm
-install dvm 
-
 ## homebrew/binary
 tap homebrew/binary
 install packer 
@@ -44,8 +39,7 @@ install zlib
 ## josegonzalez/php
 tap josegonzalez/php
 install composer 
-install php55-mongo 
-install php55 
+install php56 
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -62,7 +56,6 @@ install bdw-gc
 install bison
 install cairo
 install cask
-install chicken
 install cloog
 install clozure-cl
 install cmake
@@ -74,7 +67,7 @@ install curl
 install docbook
 install docbook-xsl
 install elixir
-install emacs --cocoa --cocoa
+install emacs --cocoa
 install erlang
 install faac
 install ffmpeg
