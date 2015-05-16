@@ -27,10 +27,6 @@ cask install vagrant
 cask install virtualbox
 cask install xtrafinder
 
-## fnichol/dvm
-tap fnichol/dvm
-install dvm 
-
 ## homebrew/binary
 tap homebrew/binary
 
@@ -47,7 +43,6 @@ install mit-scheme
 ## josegonzalez/php
 tap josegonzalez/php
 install composer 
-install php55 
 install php56 
 
 ## rcmdnk/file
