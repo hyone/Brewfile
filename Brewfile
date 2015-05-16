@@ -66,12 +66,14 @@ install cunit
 install curl
 install docbook
 install docbook-xsl
+install docker
+install docker-compose
+install docker-machine
 install elixir
 install emacs --cocoa
 install erlang
 install faac
 install ffmpeg
-install fig
 install findutils
 install fontconfig
 install fontforge
